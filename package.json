@@ -1,6 +1,6 @@
 {
   "name": "@dynamicaction/supertest",
-  "version": "2.0.0+dna.0",
+  "version": "2.0.0-dna.0",
   "description": "SuperAgent driven library for testing HTTP servers",
   "main": "index.js",
   "scripts": {
